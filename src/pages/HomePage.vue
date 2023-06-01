@@ -1,4 +1,11 @@
 <template>
+
+<div class="container-fluid">
+        <section class="row p-3 justify-content-end">
+            <button class="col-3 btn btn-primary" data-bs-toggle="modal" data-bs-target="#create-gift">Create Gift 🎁</button>
+        </section>
+        </div>
+
   <section>
     <div class="container-fluid">
       <div class="row justify-content-center">

@@ -8,6 +8,9 @@
    <footer class="bg-dark text-light">
     Made with 💖 by CodeWorks
   </footer>
+  <Modal id="create-gift">
+    <GiftForm />
+  </Modal>
 </template>
 
 <script>
